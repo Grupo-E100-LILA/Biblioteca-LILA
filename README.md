@@ -17,8 +17,8 @@ Creamos las siguientes funciones:
 Dentro de ellas, utilizamos la función contador.
 # 10 de mayo: 
 Creamos las siguientes funciones:
--Consulta: por título o por ISBN
--Modificar
+- Consulta: por título o por ISBN
+- Modificar
 # 11 de mayo:
 Creamos el acceso con contraseña
 # 15 de mayo:
