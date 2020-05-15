@@ -24,6 +24,7 @@ Creamos las siguientes funciones:
 Creamos el acceso con contraseña
 # 15 de mayo:
 Terminamos la función menú.
+
 Problemas:
 - Inicio programa defectuoso. Tienes que reiniciarlo para que logre funcionar.
 - Función modificar no funciona.
