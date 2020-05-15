@@ -30,3 +30,4 @@ Problemas:
 - Función modificar no funciona.
 - Función listado y elimar libro funcionan correctamente pero no dejan volver a realizar el programa.
 - Display de lista no funcion. Cuando hay que colocar mas de una palabra en cada apartado el programa no muestra la información correctamente.
+- Programa no guarda la información correctamente.
