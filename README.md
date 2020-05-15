@@ -11,14 +11,15 @@ Empezamos con el trabajo en grupo, organizamos las ideas y nos repartimos el tra
 Empezamos a hacer algunas funciones y el menú principal de nuestra biblioteca.
 # 9 de mayo:
 Creamos las siguientes funciones:
-- Registro de libros
-- Leer libros
-- Eliminar libro
+- Registro de libros.
+- Leer libros.
+- Eliminar libro.
+
 Dentro de ellas, utilizamos la función contador.
 # 10 de mayo: 
 Creamos las siguientes funciones:
-- Consulta: por título o por ISBN
-- Modificar
+- Consulta: por título o por ISBN.
+- Modificar.
 # 11 de mayo:
 Creamos el acceso con contraseña
 # 15 de mayo:
